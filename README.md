@@ -32,5 +32,4 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-markusntdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:markusntdev@gmail.com)](mailto:markusntdev@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-Markus Nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markus-nathan-marques)](https://www.linkedin.com/in/markus-nathan-marques)
-
+[![Gmail Badge](https://img.shields.io/badge/-markusntdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:markusntdev@gmail.com)](mailto:markusntdev@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-MarkusNathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markus-nathan-marques)](https://www.linkedin.com/in/markus-nathan-marques)
